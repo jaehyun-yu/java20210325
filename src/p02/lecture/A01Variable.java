@@ -8,6 +8,7 @@ public class A01Variable {
 		// type명 변수명;
 	 int a;
 	 
+	 
 	 //변수명 작성 규칙:
 	 //$, _, 영문대소문자,숫자조합
 	 // 숫자가 앞에 오면 안됨.
